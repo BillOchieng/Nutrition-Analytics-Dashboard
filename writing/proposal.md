@@ -1,8 +1,7 @@
 # Proposal
-Due: 20 April 2023, 3pm
+
 
 ## Name(s)
-Ryan Kennedy
 Bill Ochieng
 
 ## Group name:
