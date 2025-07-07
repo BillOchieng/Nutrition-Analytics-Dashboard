@@ -1,43 +1,43 @@
-# Interactive ESG Analytics Portal Powered by Python & WordPress
+# Nutrition Analytics Dashboard: Vegetable Oil & Obesity
 
 ## 📘 Project Description
-A data analytics and communication project evaluating how ESG (Environmental, Social, and Governance) integration affects firm value and profitability across industries—powered by Python and presented through a WordPress-based visualization portal.
+A data analytics and communication project analyzing the correlation between vegetable oil consumption and obesity prevalence across countries—leveraging Python for analysis and WordPress for interactive data presentation.
 
 ---
 
 ## 🎯 Project Objective
-To uncover the financial implications of ESG performance and make analytical insights accessible through an interactive, public-facing WordPress platform.
+To assess and communicate potential relationships between dietary fat consumption patterns (specifically vegetable oils) and obesity rates using real-world health and consumption data.
 
 ---
 
 ## 🧪 Methodology Overview
-- Collected ESG scores and financial indicators across firms and industries
-- Cleaned and modeled data using Python (pandas, statsmodels)
+- Collected global data on vegetable oil consumption and obesity metrics
+- Cleaned and processed datasets using Python (pandas, numpy)
 - Conducted correlation and regression analyses
-- Generated visualizations to communicate key findings
-- Integrated visuals and insights into a WordPress front-end
+- Generated compelling data visualizations
+- Embedded findings into a WordPress portal hosted on Apache
 
 ---
 
 ## 📂 Project Structure
 ```
-ESG-Analytics-WordPress-Portal/
-├── data/                        # ESG and financial datasets
+Vegetable-Oil-Obesity-Portal/
+├── data/                        # Obesity and dietary consumption data
 │   ├── raw/
 │   └── processed/
-├── notebooks/                  # Jupyter notebooks for analysis
-│   ├── data_cleaning.ipynb
-│   └── regression_modeling.ipynb
-├── visuals/                    # PNGs or Plotly charts for WordPress
-│   └── sector_performance.png
-├── scripts/                    # Custom data processing scripts
-│   └── esg_analysis.py
-├── wordpress_site/             # Apache-hosted WordPress site files
+├── notebooks/                  # Analysis workflows
+│   ├── cleaning.ipynb
+│   └── correlation_study.ipynb
+├── visuals/                    # Graphs for WordPress upload
+│   └── consumption_vs_obesity.png
+├── scripts/                    # Python analysis scripts
+│   └── correlation_analysis.py
+├── wordpress_site/             # Apache-hosted WordPress frontend
 │   ├── wp-content/
 │   ├── wp-config.php
-│   └── embed-guide.md
-├── reports/                    # Executive summary PDF
-│   └── ESG_Insights_Report.pdf
+│   └── embedding_notes.md
+├── reports/                    # Summary report of findings
+│   └── Oil_Obesity_Analysis_Summary.pdf
 ├── README.md
 ├── references.md
 └── requirements.txt
@@ -46,32 +46,32 @@ ESG-Analytics-WordPress-Portal/
 ---
 
 ## 🌐 WordPress Portal Features
-- Embedded ESG visualizations (via Chart.js or images)
-- Plain-language explanation of findings and methods
-- Navigation by ESG dimension (Environmental, Social, Governance)
-- Downloadable ESG financial summary report
+- Embedded data visualizations (e.g., obesity trends vs oil intake)
+- Layman-friendly summary of scientific findings
+- Sectioned insights by country/region
+- Downloadable research summary report
 
 ---
 
 ## 💡 Key Insights
-- Strong Social and Governance scores are significantly correlated with higher firm value
-- All ESG dimensions show a positive relationship with profitability
-- Visual storytelling enhances stakeholder understanding and engagement
+- Strong correlations observed between per capita vegetable oil consumption and national obesity rates
+- Patterns vary by region, with economic and dietary factors as potential mediators
+- Visual dashboard aids in public health awareness and education
 
 ---
 
 ## 🧠 Tools and Technologies
-- Python (pandas, numpy, seaborn, statsmodels)
+- Python (pandas, numpy, matplotlib, seaborn, statsmodels)
 - Jupyter Notebooks
-- Apache Server + WordPress
-- ESG data (e.g., MSCI, Refinitiv) and public financial filings
+- Apache + WordPress CMS
+- FAOStat, WHO, and national health databases
 
 ---
 
 ## 📚 References
-- Khan, M., Serafeim, G., & Yoon, A. (2016). *Corporate Sustainability: First Evidence on Materiality*. The Accounting Review.
-- Eccles, R. G., Ioannou, I., & Serafeim, G. (2014). *The Impact of Corporate Sustainability on Organizational Processes and Performance*. Management Science.
-- MSCI ESG Ratings Methodology. https://www.msci.com/our-solutions/esg-investing/esg-ratings
+- Mozaffarian, D. (2016). *Dietary fats and obesity: a complex relationship*. Journal of Nutrition.
+- FAOStat. (2023). *Food and Agriculture Organization Statistics*. http://www.fao.org/faostat
+- WHO. (2022). *Global Health Observatory data*. https://www.who.int/data/gho
 
 ---
 
