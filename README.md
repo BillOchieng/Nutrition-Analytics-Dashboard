@@ -1,4 +1,4 @@
-# ESG Analytics and Apache WordPress Visualization Portal
+# Interactive ESG Analytics Portal Powered by Python & WordPress
 
 ## 📘 Project Description
 A data analytics and communication project evaluating how ESG (Environmental, Social, and Governance) integration affects firm value and profitability across industries—powered by Python and presented through a WordPress-based visualization portal.
