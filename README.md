@@ -1,4 +1,4 @@
-# Nutrition Analytics Dashboard: Vegetable Oil & Obesity
+# Nutrition Analytics Dashboard: correlation between vegetable oil consumption and obesity rates
 
 ## 📘 Project Description
 A data analytics and communication project analyzing the correlation between vegetable oil consumption and obesity prevalence across countries—leveraging Python for analysis and WordPress for interactive data presentation.
